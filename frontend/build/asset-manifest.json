@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/static/css/main.7e189490.css",
+    "main.js": "/static/js/main.8aebfc4b.js",
+    "static/media/20240603_164812 - Salma Badr.jpg": "/static/media/20240603_164812 - Salma Badr.d9169c762eddd4694027.jpg",
+    "static/media/committeesbg.mp4": "/static/media/committeesbg.ccadc22a0b09cc8f7a5f.mp4",
+    "static/media/IMG_9271 - Sama Hany Salah Salama Eliwa Shedid Shedid.jpeg": "/static/media/IMG_9271 - Sama Hany Salah Salama Eliwa Shedid Shedid.076338b7aab84087e38e.jpeg",
+    "static/media/background.mp4": "/static/media/background.9d0e2a003ba5f233eedb.mp4",
+    "static/media/YA.png": "/static/media/YA.45c4554e7d189958cf2e.png",
+    "static/media/Head Image.jpg": "/static/media/Head Image.15a08caa0db0929e69c3.jpg",
+    "static/media/AM.jpeg": "/static/media/AM.6957bd4ccc045ce11e1c.jpeg",
+    "static/media/aboutbg.mp4": "/static/media/aboutbg.da70d422d3716550ddfb.mp4",
+    "static/media/Hashish.jpeg": "/static/media/Hashish.6cebe51f887db4ee7f0c.jpeg",
+    "static/media/IMG_20240828_212339_177 - Moaz Ezzat Abdlrahman Ahmed Ahmed.jpeg": "/static/media/IMG_20240828_212339_177 - Moaz Ezzat Abdlrahman Ahmed Ahmed.ca4c1e546c1529c51f6e.jpeg",
+    "static/media/me - Saif Elsayed.jpg": "/static/media/me - Saif Elsayed.dcfde93020c2d817e14e.jpg",
+    "static/media/IMG_20240525_170837 - Ahmed Raafat Abdel Sattar Awad Awad.jpg": "/static/media/IMG_20240525_170837 - Ahmed Raafat Abdel Sattar Awad Awad.9651ed39323f44d81cd5.jpg",
+    "static/media/Ibrahim.jpg": "/static/media/Ibrahim.9c66563e759048abd29b.jpg",
+    "static/media/Maryam.jpg": "/static/media/Maryam.2bdf85864d75a71b89b0.jpg",
+    "static/media/AS.jpeg": "/static/media/AS.175b73e886544adf2a64.jpeg",
+    "static/media/IMG-20240723-WA0042 - Habiba Abdelhady.jpg": "/static/media/IMG-20240723-WA0042 - Habiba Abdelhady.600f653ff0974d191eab.jpg",
+    "static/media/ABDELAZIZ.jpeg": "/static/media/ABDELAZIZ.317bc5267cc43538341f.jpeg",
+    "static/media/zahi.jpeg": "/static/media/zahi.127f4449d0ba4f5f0ef6.jpeg",
+    "static/media/Mission.png": "/static/media/Mission.13da9868a2bef4c618e7.png",
+    "static/media/LOGO-WHITE-NAV.png": "/static/media/LOGO-WHITE-NAV.1398e5a550a28b2468e7.png",
+    "static/media/vision.png": "/static/media/vision.2bdae95e91eefca5b76c.png",
+    "static/media/FB_IMG_23 - sharl michael.jpg": "/static/media/FB_IMG_23 - sharl michael.d58c33060d337f81c2d1.jpg",
+    "static/media/eyad khairat head.jpeg": "/static/media/eyad khairat head.3a6b0cf569f79327f7db.jpeg",
+    "static/media/IMG_20241220_150616 - Ziad Mohamed Abdelhay Mohamed Afify Abdelaal Abdelaal.jpg": "/static/media/IMG_20241220_150616 - Ziad Mohamed Abdelhay Mohamed Afify Abdelaal Abdelaal.5044df9ea8f59e8268d9.jpg",
+    "index.html": "/index.html",
+    "main.7e189490.css.map": "/static/css/main.7e189490.css.map",
+    "main.8aebfc4b.js.map": "/static/js/main.8aebfc4b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7e189490.css",
+    "static/js/main.8aebfc4b.js"
+  ]
+}
